@@ -10,7 +10,6 @@ into a one single excel datasheet with more the 500K rows, EDA is performed to u
 customers and their booking criteria, further dashboards are used to visualise the data, use of k- means 
 clustering is done for pointing out the region of high density and deployment of cabs
 
-[![View on GitHub]()
 
 
 ---
@@ -21,8 +20,6 @@ clustering is done for pointing out the region of high density and deployment of
 be focused more to increase the business. These valuable insights should help Facebook to take intelligent 
 decision to identify its useful users and provide correct recommendations to them using the ‘likes’ target 
 variable.</div>
-
-<center><img src="images/BERTs-classification.png"/></center>
 
 ---
 
