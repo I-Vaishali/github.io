@@ -23,8 +23,8 @@ variable.</div>
 
 ---
 
-## Detect Spam Messages:  SQL queries on ICC world cup
-### Tools used: MySQL queries.
+## SQL queries on ICC world cup
+### Tools used: MySQL
 
 <div style="text-align: justify">SQL queries on ICC world cup 
 Test matches are played between national representative teams that have been granted ‘Test statuses, as 
@@ -48,4 +48,4 @@ amongst the variables with appropriate visualization..</div>
 ---
 
 
-I like to give credit for this template to CHIRTAN, and its revised by me !
+I like to give credit for this template to CHRIS TRAN, and its revised by me !
