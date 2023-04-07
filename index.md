@@ -5,13 +5,11 @@
 ### Tools Used: Python, NumPy, Pandas, scikit learn, Unsupervised Learning, MS-excel, Folium, Tableau
 Business Objective: forecasting the pickup of the cab based on bridging the supply- demand gap, 
 shortening ETA, and refining the route
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/UBER PROJECT.html)
 Approach: Data gathered using Kaggle, routine process of data cleaning has been checked, Multiple files merged 
 into a one single excel datasheet with more the 500K rows, EDA is performed to understand the pattern of 
 customers and their booking criteria, further dashboards are used to visualise the data, use of k- means 
 clustering is done for pointing out the region of high density and deployment of cabs
-<br>
-<center><img src="projects/UBER PROJECT.html"/></center>
-<br>
 
 
 
