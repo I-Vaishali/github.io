@@ -10,7 +10,7 @@ shortening ETA, and refining the route
 <div style="text-align: justify">Approach: Data gathered using Kaggle, routine process of data cleaning has been checked, Multiple files merged 
 into a one single excel datasheet with more the 500K rows, EDA is performed to understand the pattern of 
 customers and their booking criteria, further dashboards are used to visualise the data, use of k- means 
-clustering is done for pointing out the region of high density and deployment of cabs
+clustering is done for pointing out the region of high density and deployment of cabs</div>
   ---  
   
 ## TARGET USERS FOR BETTER Recommendations
