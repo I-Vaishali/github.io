@@ -11,7 +11,7 @@ shortening ETA, and refining the route
 into a one single excel datasheet with more the 500K rows, EDA is performed to understand the pattern of 
 customers and their booking criteria, further dashboards are used to visualise the data, use of k- means 
 clustering is done for pointing out the region of high density and deployment of cabs
-  
+  ---  
   
 ## TARGET USERS FOR BETTER Recommendations
 ### Tools Used:Tools Used: Machine Learning, Supervised Learning, Linear Regression
